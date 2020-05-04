@@ -1,0 +1,38 @@
+<div id="tatoolFormat">
+
+	<h1>Instruction</h1>
+
+	<p>
+		Questo compito misura l'abilità di prestare attenzione a le informazioni rilevanti e ignorare quelle irrilevanti. <br> <br> Dovrai decidere se un cerchio è <strong>verde</strong> o <strong>rosso</strong> Cliccando sulla freccia destra o su quella sinistra. La difficoltà risiede nel fatto che il cerchio potrà presentarsi a destra, a sinistra o al centro indipendentemente dal colore. 
+    Quindi, la posizione del cerchio non corrisponderà sempre alla posizione della freccia corretta (destra o sinistra).
+	</p>
+	
+	<br>
+	<center>
+		<table>
+			<tr>
+				<td style="padding:10px; background-color:#e7e7e7; text-align:center"><img
+					src="inhibit_simon_greencircle.png"><br>Press
+					the <strong>left arrow key</strong> if the circle is <strong>green</strong>.
+					<br> <br> <img src="key_arrow_L.png"></td>
+				<td width="25"></td>
+				<td style="padding:10px; background-color:#e7e7e7; text-align:center"><img
+					src="inhibit_simon_redcircle.png"><br>Press
+					the <strong>right arrow key</strong> if the circle is <strong>red</strong>.<br>
+					<br> <img src="key_arrow_R.png"></td>
+			</tr>
+		</table>
+	</center>
+
+	<p>
+		Prova a rispondere il più accuratamente <i><strong>and</strong></i> e velocemente possibile.
+	</p>
+
+	<p>
+		<br>Clicca<span class='highlight_red'>la freccia rossa</span> per procedere alla prossima pagina.
+	</p>
+
+	<br>
+	<br>
+
+</div>
